@@ -1,0 +1,9 @@
+D:\прога\ПиТПО\джарвис\paint\paint\bin\Debug\paint.exe.config
+D:\прога\ПиТПО\джарвис\paint\paint\bin\Debug\paint.exe
+D:\прога\ПиТПО\джарвис\paint\paint\bin\Debug\paint.pdb
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.Form1.resources
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.Properties.Resources.resources
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.csproj.GenerateResource.Cache
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.exe
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.pdb
+D:\прога\ПиТПО\джарвис\paint\paint\obj\Debug\paint.csprojResolveAssemblyReference.cache

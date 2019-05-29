@@ -1,0 +1,7 @@
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\bin\Debug\paint.exe
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\bin\Debug\paint.pdb
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\прога\ПиТПО\джарвис\paint\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
